@@ -42,7 +42,7 @@ button:hover {
 }
 
 #resultado {
-    background-image: url('img/new_card.png'); /* Nueva imagen */
+    background-image: url('img/card2.jpg'); /* Nueva imagen */
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -60,4 +60,3 @@ button:hover {
     text-align: center;
     overflow: hidden;
 }
-/*comentario*/

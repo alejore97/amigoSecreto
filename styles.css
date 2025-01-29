@@ -43,11 +43,11 @@ button:hover {
 
 #resultado {
     background-image: url('img/card2.jpg'); /* Nueva imagen */
-    background-size: cover;
+    background-size: auto;
     background-repeat: no-repeat;
     background-position: center;
-    width: 350px; /* Ajuste del tamaño */
-    height: 180px;
+    width: 300px; /* Ajuste del tamaño */
+    height: 160px;
     padding: 20px;
     border-radius: 10px;
     font-size: 22px;
